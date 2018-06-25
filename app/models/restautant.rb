@@ -1,0 +1,2 @@
+class Restautant < ApplicationRecord
+end
